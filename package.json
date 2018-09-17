@@ -1,0 +1,24 @@
+{
+  "name": "simple-control-esp8266-nodejs",
+  "version": "1.0.0",
+  "description": "Control LED & 7-seg-LED by Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhhocse96/simple-control-esp8266-nodejs.git"
+  },
+  "author": "Ho Quang Thanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhhocse96/simple-control-esp8266-nodejs/issues"
+  },
+  "homepage": "https://github.com/thanhhocse96/simple-control-esp8266-nodejs#readme"
+}
